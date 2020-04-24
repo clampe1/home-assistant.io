@@ -25,7 +25,9 @@ We would appreciate if you help to keep this page up-to-date and add feedback.
 
 | Browser               | Release        | State      | Comments                 |
 | :-------------------- |:---------------|:-----------|:-------------------------|
-| [Safari]              |                | works      | Map is fixed since 0.51. |
+| [Safari]              |  13.1          | works      | Map is fixed since 0.51. |
+| [Chrome]              |  81.0.4044.122 | works      |                          |
+| [Firefox]             |  72.0.22.      | works      |                          |
 
 ## Linux
 
